@@ -1,8 +1,4 @@
-#Tyler Hoang | 1583540
-#tydhoang@ucsc.edu
-#3/9/18
-#Lab 6: Vigenere Cipher 
-#Section - 01F: Cory Ibanez
+#Tyler Hoang
 
 #Pseudocode:
 #EncryptChar:
